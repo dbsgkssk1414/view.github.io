@@ -1,0 +1,5 @@
+TXT	ads	"google site-verification= 1MnhaZ7z2M79DXtoR8lt_R25GM44wsie@Co8nut Uyo"	1800		DNS 설정	
+
+CNAME	@	view.github.io.	1800		DNS 설정	
+
+CNAME	www	view.github.io.	1800		DNS 설정
