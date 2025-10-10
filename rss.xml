@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>뷰528 블로그</title>
+<link>https://view528.com/</link>
+<description>뷰티/리뷰 전문 블로그</description>
+<language>ko</language>
+
+<item>
+<title>첫 포스팅 제목</title>
+<link>https://view528.com/</link>
+<description>첫 포스팅 내용 요약</description>
+<pubDate>Fri, 10 Oct 2025 12:00:00 +0900</pubDate>
+</item>
+
+</channel>
+</rss>
