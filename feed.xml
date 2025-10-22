@@ -2,14 +2,15 @@
 <rss version="2.0">
 <channel>
 <title>내 사이트 이름</title>
-<link>https://win.view528.com/</link>
+<link>https://view528.com/</link>
 <description>내 사이트 설명</description>
 <item>
 <title>첫번째 글 제목</title>
-<link>https://win.view528.com/post/1</link>
+<link>https://view528.com/post/1</link>
 <description>글 요약 내용</description>
 <pubDate>Mon, 13 Oct 2025 00:00:00 +0900</pubDate>
 </item>
 <!-- 글 여러 개 추가 가능 -->
 </channel>
 </rss>
+
